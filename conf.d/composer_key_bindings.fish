@@ -1,0 +1,1 @@
+bind \e\> '__composer'
